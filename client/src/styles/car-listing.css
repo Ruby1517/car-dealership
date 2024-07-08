@@ -1,0 +1,10 @@
+.car__list-sort {
+    border: none;
+    background-color: transparent;
+}
+
+.car__list-desc {
+    margin-right: 10px;
+    color: #f9a826;
+    font-weight: 600;
+}
